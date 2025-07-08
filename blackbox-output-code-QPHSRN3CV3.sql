@@ -1,0 +1,1 @@
+SELECT MetadataKey, MetadataValue FROM ImageMetadata WHERE ImageID = ?;
